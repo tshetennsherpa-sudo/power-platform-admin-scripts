@@ -1,0 +1,2 @@
+# Script output: contains tenant IDs, object IDs, and email addresses. Never commit.
+*.csv
